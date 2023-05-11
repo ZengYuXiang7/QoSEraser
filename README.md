@@ -1,5 +1,5 @@
 # QoSEraser
-This is an official PyTorch implementation of paper entitled "QoSEraser: A Data Erasable Framework for Web Service QoS Prediction". (IEEE SSE 2023, CCF-C Conference)
+This is an official PyTorch implementation of paper entitled "QoSEraser: A Data Erasable Framework for Web Service QoS Prediction". 
 
 ## Abstract
 To select appropriate cloud services for users, the Quality-of-Servic (QoS) based collaborative prediction models are widely used. Despite the success of collaborative prediction models in selecting appropriate cloud services for users, existing models do not take into account the user’s authority to manage their own generated data as stipulated in GDPR. Besides, due to the security concerns such as data poisoning attacks, the unlearning is urgently needed. Existing QoS prediction methods did not optimize for unlearning, suffering from low model availability when handling unlearning requests by full retraining. 
